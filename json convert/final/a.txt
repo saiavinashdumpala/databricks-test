@@ -1,0 +1,115 @@
+267
+end
+1 54
+54 251
+251 256
+256 261
+261 266
+[1, 54, 251, 256, 261, 266]
+@@@@@@@@@@@@@@@@
+{}
+@@@@@@@@@@@@@@@@
+{}
+@@@@@@@@@@@@@@@@
+{}
+@@@@@@@@@@@@@@@@
+{}
+@@@@@@@@@@@@@@@@
+{}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-0.01uF/10000pF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-0.01uF/10000pF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-0.01uF/10000pF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-0.1uF/100nF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-0.1uF/100nF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-0.1uF/100nF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-1.5R\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-1.5R\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-1.5R\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-100K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-100K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-100K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-100R'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-100R'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-100R'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-100pF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-100pF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-100pF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-10K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-10K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-10K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-10K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-10K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-10K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-10uF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-10uF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-10uF'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-357R'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-357R'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-357R'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-4.7K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-4.7K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-4.7K'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-BZX84C12VLFHT116\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-BZX84C12VLFHT116\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-BZX84C12VLFHT116\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-NFSA123DT\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-NFSA123DT\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-NFSA123DT\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-SQ2398ES\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-SQ2398ES\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-SQ2398ES\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-SQ3426EV\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-SQ3426EV\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-SQ3426EV\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-SQ3427EV\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-SQ3427EV\n'}
+@@@@@@@@@@@@@@@@
+{'componentName': 'FNG-SQ3427EV\n'}
+{'componentName': 'FNG-SQ3427EV\n'}

@@ -1,0 +1,782 @@
+{
+    "layoutName": "FLEX-N-GATE-LED",
+    "component": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "componentName": "FNG-0.01uF/10000pF"
+        },
+        {},
+        {},
+        {
+            "componentName": "FNG-0.01uF/10000pF"
+        },
+        {
+            "placed": "22",
+            "time": "21939",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "2\n"
+        },
+        {},
+        {
+            "componentName": "FNG-0.01uF/10000pF"
+        },
+        {
+            "placed": "22",
+            "time": "21939",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "2\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-0.1uF/100nF"
+        },
+        {
+            "placed": "22",
+            "time": "21939",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "2\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-0.1uF/100nF"
+        },
+        {
+            "placed": "33",
+            "time": "34115",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "3\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-0.1uF/100nF"
+        },
+        {
+            "placed": "33",
+            "time": "34115",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "3\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-1.5R\n"
+        },
+        {
+            "placed": "33",
+            "time": "34115",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "3\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-1.5R\n"
+        },
+        {
+            "placed": "11",
+            "time": "8937",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-1.5R\n"
+        },
+        {
+            "placed": "11",
+            "time": "8937",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-100K"
+        },
+        {
+            "placed": "11",
+            "time": "8937",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-100K"
+        },
+        {
+            "placed": "122",
+            "time": "101234",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "4",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-100K"
+        },
+        {
+            "placed": "122",
+            "time": "101234",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "4",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-100R"
+        },
+        {
+            "placed": "122",
+            "time": "101234",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "4",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-100R"
+        },
+        {
+            "placed": "22",
+            "time": "14204",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-100R"
+        },
+        {
+            "placed": "22",
+            "time": "14204",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-100pF"
+        },
+        {
+            "placed": "22",
+            "time": "14204",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-100pF"
+        },
+        {
+            "placed": "99",
+            "time": "98037",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "1\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-100pF"
+        },
+        {
+            "placed": "99",
+            "time": "98037",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "1\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-10K"
+        },
+        {
+            "placed": "99",
+            "time": "98037",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "1\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-10K"
+        },
+        {
+            "placed": "154",
+            "time": "119803",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "13\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-10K"
+        },
+        {
+            "placed": "154",
+            "time": "119803",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "13\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-10K"
+        },
+        {
+            "placed": "154",
+            "time": "119803",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "13\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-10K"
+        },
+        {
+            "placed": "78",
+            "time": "56168",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "1",
+            "badPlaced": "0",
+            "badOther": "2\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-10K"
+        },
+        {
+            "placed": "78",
+            "time": "56168",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "1",
+            "badPlaced": "0",
+            "badOther": "2\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-10uF"
+        },
+        {
+            "placed": "78",
+            "time": "56168",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "1",
+            "badPlaced": "0",
+            "badOther": "2\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-10uF"
+        },
+        {
+            "placed": "11",
+            "time": "9527",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-10uF"
+        },
+        {
+            "placed": "11",
+            "time": "9527",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-357R"
+        },
+        {
+            "placed": "11",
+            "time": "9527",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-357R"
+        },
+        {
+            "placed": "115",
+            "time": "77782",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-357R"
+        },
+        {
+            "placed": "115",
+            "time": "77782",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-4.7K"
+        },
+        {
+            "placed": "115",
+            "time": "77782",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-4.7K"
+        },
+        {
+            "placed": "22",
+            "time": "14204",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-4.7K"
+        },
+        {
+            "placed": "22",
+            "time": "14204",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-BZX84C12VLFHT116\n"
+        },
+        {
+            "placed": "22",
+            "time": "14204",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-BZX84C12VLFHT116\n"
+        },
+        {
+            "placed": "110",
+            "time": "96777",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-BZX84C12VLFHT116\n"
+        },
+        {
+            "placed": "110",
+            "time": "96777",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-NFSA123DT\n"
+        },
+        {
+            "placed": "110",
+            "time": "96777",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-NFSA123DT\n"
+        },
+        {
+            "placed": "56",
+            "time": "41921",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "1\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-NFSA123DT\n"
+        },
+        {
+            "placed": "56",
+            "time": "41921",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "1\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-SQ2398ES\n"
+        },
+        {
+            "placed": "56",
+            "time": "41921",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "1\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-SQ2398ES\n"
+        },
+        {
+            "placed": "22",
+            "time": "20446",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-SQ2398ES\n"
+        },
+        {
+            "placed": "22",
+            "time": "20446",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-SQ3426EV\n"
+        },
+        {
+            "placed": "22",
+            "time": "20446",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-SQ3426EV\n"
+        },
+        {
+            "placed": "19",
+            "time": "17021",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "3",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-SQ3426EV\n"
+        },
+        {
+            "placed": "19",
+            "time": "17021",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "3",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-SQ3427EV\n"
+        },
+        {
+            "placed": "19",
+            "time": "17021",
+            "badDimension": "0",
+            "badElectric": "0",
+            "badPicked": "3",
+            "badPlaced": "0",
+            "badOther": "0\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-SQ3427EV\n"
+        },
+        {
+            "placed": "110",
+            "time": "95852",
+            "badDimension": "5",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "1\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        },
+        {
+            "componentName": "FNG-SQ3427EV\n"
+        },
+        {
+            "placed": "110",
+            "time": "95852",
+            "badDimension": "5",
+            "badElectric": "0",
+            "badPicked": "0",
+            "badPlaced": "0",
+            "badOther": "1\n"
+        },
+        {
+            "dispensed": "0",
+            "time": "0\n"
+        }
+    ],
+    "machineName": "my200-14n0348\n",
+    "assembledLayouts": "3\n",
+    "assembledBoards": "7\n",
+    "assemblyTime": {
+        "totalTime": "9210110",
+        "dispenseTime": "0",
+        "assemblyTime": "939300\n"
+    }
+}

@@ -1,0 +1,31 @@
+[
+    {
+       "layoutName":string,
+       "machineName":string,
+       "assembledLayouts":string,
+       "assembledBoards":string,
+       "assemblyTime":{
+          "totalTime":string,
+          "dispenseTime":string,
+          "assemblyTime":string
+       },
+       "component":[
+          {
+             "componentName":string
+          },
+          {
+             "placed":string,
+             "time":string,
+             "badDimension":string,
+             "badElectric":string,
+             "badPicked":"string,
+             "badPlaced":string,
+             "badOther":string
+          },
+          {
+             "dispensed":string,
+             "time":string
+          }
+        ]
+    }
+]
